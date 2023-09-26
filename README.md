@@ -4,7 +4,7 @@ Welcome to DevSite! This repository serves as a collection of web development pr
 
 | Project Name        | Live Demo          | Preview Image |
 |---------------------|--------------------|---------------|
-| Project 1           | [Demo](#)          | ![web 1](https://github.com/abdul-1432/DevSite/assets/124916666/35e3943a-7940-4841-8f5a-7d3c8c013851)|
+| Website 1           | [Demo](#)          | ![web 1](https://github.com/abdul-1432/DevSite/assets/124916666/35e3943a-7940-4841-8f5a-7d3c8c013851)|
 | Project 2           | [Demo](#)          | ![web 2](https://github.com/abdul-1432/DevSite/assets/124916666/0e5710a5-5646-4bd0-a652-da572c54efcd)|
 | Project 3           | [Demo](#)          | ![Image 3](link-to-image3.png) |
 | Project 4           | [Demo](#)          | ![Image 4](link-to-image4.png) |
