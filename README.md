@@ -6,7 +6,7 @@ Welcome to DevSite! This repository serves as a collection of web development pr
 |---------------------|--------------------|---------------|
 | Website 1           | [Demo](https://devsite.netlify.app/web/web%201/home)          | ![web 1](https://github.com/abdul-1432/DevSite/assets/124916666/35e3943a-7940-4841-8f5a-7d3c8c013851)|
 | Website 2           | [Demo](https://devsite.netlify.app/web/web%202/home)          | ![web 2](https://github.com/abdul-1432/DevSite/assets/124916666/0e5710a5-5646-4bd0-a652-da572c54efcd)|
-| Website 3           | [Demo](#)          | ![3](https://github.com/abdul-1432/DevSite/assets/124916666/b839f169-8274-473f-aac5-fe1c0f1905a4)|
+| Website 3           | [Demo](https://devsite.netlify.app/web/web%203/home)          | ![3](https://github.com/abdul-1432/DevSite/assets/124916666/b839f169-8274-473f-aac5-fe1c0f1905a4)|
 | Website 4           | [Demo](#)          | ![4](https://github.com/abdul-1432/DevSite/assets/124916666/8fa9f1b5-0d34-4170-baa0-7017e537ef20)|
 | Website 5           | [Demo](#)          | ![5](https://github.com/abdul-1432/DevSite/assets/124916666/8686b972-5f2b-49db-a507-fea211478ab4)|
 | Website 6           | [Demo](#)          | ![6](https://github.com/abdul-1432/DevSite/assets/124916666/a4f67f3b-b8a9-4db4-8979-328e52205ac5)|
