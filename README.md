@@ -13,7 +13,7 @@ Welcome to DevSite! This repository serves as a collection of web development pr
 | Website 7           | [Demo](https://devsite.netlify.app/web/web%207/home)          | ![7](https://github.com/abdul-1432/DevSite/assets/124916666/43317f3a-6a3e-4d7c-a7c3-70cb23ec9c98)|
 | Website 8           | [Demo](https://devsite.netlify.app/web/web%208/home)          | ![8](https://github.com/abdul-1432/DevSite/assets/124916666/7074bc1c-8839-4749-a5be-ec07bb78887b)|
 | Website 9           | [Demo](https://devsite.netlify.app/web/web%209/home)          | ![9](https://github.com/abdul-1432/DevSite/assets/124916666/0ebed0c8-0242-4f9b-aca5-6c222175b14d)|
-| Project 10          | [Demo](#)          | ![10](https://github.com/abdul-1432/DevSite/assets/124916666/a4283ff1-421b-4dc9-b0d4-7d7edebaf53f)|
+| Project 10          | [Demo](https://devsite.netlify.app/web/web%2010/home)          | ![10](https://github.com/abdul-1432/DevSite/assets/124916666/a4283ff1-421b-4dc9-b0d4-7d7edebaf53f)|
 
 ## How to Use
 
