@@ -2,6 +2,10 @@
 
 Welcome to DevSite! This repository serves as a collection of web development projects that I have created. Each project is inspired by CodePen and showcases various front-end web development skills and techniques. Below is a list of the projects with live demos and preview images.
 
+# DEMO
+
+DEVSITE [Demo](https://devsite.netlify.app/)
+
 | Project Name        | Live Demo          | Preview Image |
 |---------------------|--------------------|---------------|
 | Website 1           | [Demo](https://devsite.netlify.app/web/web%201/home)          | ![web 1](https://github.com/abdul-1432/DevSite/assets/124916666/35e3943a-7940-4841-8f5a-7d3c8c013851)|
