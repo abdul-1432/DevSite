@@ -6,6 +6,8 @@ Welcome to DevSite! This repository serves as a collection of web development pr
 
 DEVSITE [Demo](https://devsite.netlify.app/)
 
+# Website indetail table
+
 | Project Name        | Live Demo          | Preview Image |
 |---------------------|--------------------|---------------|
 | Website 1           | [Demo](https://devsite.netlify.app/web/web%201/home)          | ![web 1](https://github.com/abdul-1432/DevSite/assets/124916666/35e3943a-7940-4841-8f5a-7d3c8c013851)|
